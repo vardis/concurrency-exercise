@@ -1,4 +1,4 @@
 concurrency-exercise
 ====================
 
-Sample code related to the blog post at http://mighty-byte.net/2014/09/a-concurrency-exercise/
+Control access to a shared resource with multiple readers and writers.
